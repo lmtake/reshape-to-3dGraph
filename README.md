@@ -293,7 +293,7 @@ d[“variable”] &lt;- lapply(d[“variable”],gsub,pattern=“X.1000”,repla
 <span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a>          <span class="at">grid=</span><span class="cn">TRUE</span>, </span>
 <span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a>          <span class="at">ellipsoid=</span><span class="cn">FALSE</span>,<span class="at">xlab=</span><span class="st">&quot;length&quot;</span>,<span class="at">ylab=</span><span class="st">&quot;y&quot;</span>,<span class="at">zlab=</span><span class="st">&quot;w&quot;</span>)</span>
 <span id="cb7-8"><a href="#cb7-8" aria-hidden="true" tabindex="-1"></a><span class="fu">rgl.snapshot</span>(<span class="st">&quot;plot1.png&quot;</span>)</span></code></pre></div>
-<p><img src="3dAnimatedScatterplot.png" alt="3dプロット" /></p>
+<p><img src="https://github.com/lmtake/reshape-to-3dGraph/blob/main/plot1.png" alt="3dプロット" /></p>
 <h2 id="自動的に回転するプロット">自動的に回転するプロット</h2>
 <p>scatter3d(value~length+variable,<br />
 data=d2,fit=“smooth”,<br />
