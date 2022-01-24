@@ -314,7 +314,7 @@ type = “gif”,<br />
 clean = TRUE<br />
 )</p>
 <p>上記で連続してコマンドすればアニメーションgifが出力される</p>
-<p><img src="3dAnimatedScatterplot.gif" alt="Animation" /></p>
+<p><img src="https://github.com/lmtake/reshape-to-3dGraph/blob/main/3dAnimatedScatterplot.gif" alt="Animation" /></p>
 <p>Memo:<br />
 列名変更したい場合。<br />
 左が変えたあと、みぎがかえるまえ<br />
